@@ -1,5 +1,5 @@
-# data_portfolio
-# NYC Taxi Fare Estimation Analysis - Automatidata Project
+# portfolio
+# [NYC Taxi Fare Estimation Analysis - Automatidata Project](https://github.com/Shanis185/automati_data.git)
 This project is part of the Google Advanced Data Analytics course, developed in collaboration with Automatidata, a fictional data consulting firm. The client, the New York City Taxi and Limousine Commission (TLC), aims to build a data-driven app that enables riders to estimate taxi fares in advance. This repository documents the process and outcomes of exploratory data analysis (EDA), data cleaning, and visualization conducted on the NYC TLC dataset. Future stages will develop a regression model to improve fare predictions.
 
 ## Project Overview
