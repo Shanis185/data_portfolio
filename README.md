@@ -65,3 +65,19 @@ Fare breakdown by location and time
 ![](https://github.com/Shanis185/automati_data/blob/db5bf72370dbb9fda05941e808e428bd7edd9434/image/Screenshot%202024-11-15%20140633.png)
 ### Executive Summary
 An executive summary is provided for Automatidata's internal team, covering insights gained from EDA, key variables for fare estimation, and initial recommendations.
+
+
+# [Project 2:Lightning Strike Data Analysis Dashboard - Tableau Project](https://github.com/Shanis185/TABLEAU.git)
+This project is part of the Google Advanced Data Analytics course. The goal of this project is to analyze and visualize lightning strike counts in the United States using Tableau. The dataset contains four key columns: latitude, longitude, date, and lightning strike counts, where each row represents the total lightning strike count for a specific date and location.
+
+The project includes creating a dynamic dashboard with two interactive worksheets and a set of filters for a detailed exploration of the data.
+
+## Project Overview
+This dashboard is designed to provide insights into lightning strike patterns across the United States by displaying the data using two bar graphs:
+![](https://github.com/Shanis185/TABLEAU/blob/95db8110ead5e12890596b7d33efe95d16108f18/images/Screenshot%202024-11-15%20150629.png)
+![](https://github.com/Shanis185/TABLEAU/blob/95db8110ead5e12890596b7d33efe95d16108f18/images/Screenshot%202024-11-15%20150653.png)
+![](https://github.com/Shanis185/TABLEAU/blob/95db8110ead5e12890596b7d33efe95d16108f18/images/Screenshot%202024-11-15%20150707.png)
+
+## Tools Used
+Tableau: For data visualization and dashboard creation.
+Data Cleaning: Tableau’s data preparation tools were used to clean and structure the dataset for visualization.
