@@ -61,6 +61,6 @@ Key visualizations created for internal stakeholders include:
 Distribution of fares
 Trip distance analysis
 Fare breakdown by location and time
-#### some of my visulaizations   ![](https://github.com/shanis185/automati_data/blob/image/Screenshot 2024-11-15 140735.png?raw=true) 
+#### some of my visulaizations   ![](https://github.com/Shanis185/automati_data/blob/db5bf72370dbb9fda05941e808e428bd7edd9434/image/Screenshot%202024-11-15%20140735.png) 
 ### Executive Summary
 An executive summary is provided for Automatidata's internal team, covering insights gained from EDA, key variables for fare estimation, and initial recommendations.
