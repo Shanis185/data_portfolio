@@ -76,9 +76,9 @@ The project includes creating a dynamic dashboard with two interactive worksheet
 
 ## Project Overview
 This dashboard is designed to provide insights into lightning strike patterns across the United States by displaying the data using two bar graphs:
-![](https://github.com/Shanis185/TABLEAU/blob/95db8110ead5e12890596b7d33efe95d16108f18/images/Screenshot%202024-11-15%20150629.png)
-![](https://github.com/Shanis185/TABLEAU/blob/95db8110ead5e12890596b7d33efe95d16108f18/images/Screenshot%202024-11-15%20150653.png)
-![](https://github.com/Shanis185/TABLEAU/blob/95db8110ead5e12890596b7d33efe95d16108f18/images/Screenshot%202024-11-15%20150707.png)
+![](https://raw.githubusercontent.com/Shanis185/TABLEAU/95db8110ead5e12890596b7d33efe95d16108f18/images/Screenshot%202024-11-15%20150629.png)
+![](https://raw.githubusercontent.com/Shanis185/TABLEAU/95db8110ead5e12890596b7d33efe95d16108f18/images/Screenshot%202024-11-15%20150653.png)
+![](https://raw.githubusercontent.com/Shanis185/TABLEAU/95db8110ead5e12890596b7d33efe95d16108f18/images/Screenshot%202024-11-15%20150707.png)
 
 ## Tools Used
 Tableau: For data visualization and dashboard creation.
