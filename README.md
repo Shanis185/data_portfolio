@@ -85,7 +85,7 @@ This dashboard is designed to provide insights into lightning strike patterns ac
 Tableau: For data visualization and dashboard creation.
 Data Cleaning: Tableau’s data preparation tools were used to clean and structure the dataset for visualization.
 
-# [Project 3:Ride-Sharing Fare Prediction: Trip Data Analysis and Regression Modeling](https://github.com/Shanis185/automati_data.git)
+# [Project 3:Ride-Sharing Fare Prediction: Trip Data Analysis and Regression Modeling](https://github.com/Shanis185/multi_regression.git)
 ## Overview
 This project analyzes and predicts ride-sharing fare amounts in a metropolitan city using the 2017 Ride-Sharing Trip Data. The goal is to predict fare based on factors like trip distance, duration, passenger count, and tolls. Key data science techniques such as data preprocessing, exploratory data analysis (EDA), and regression modeling were used to build an accurate predictive model.
 
