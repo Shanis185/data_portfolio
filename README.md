@@ -122,3 +122,6 @@ Python: For data analysis and modeling
 Pandas, NumPy, Matplotlib, Seaborn: For data manipulation and visualization
 Scikit-learn: For machine learning modeling and evaluation
 
+![](https://raw.githubusercontent.com/shanis185/multi_regression/main/images/Screenshot%202024-12-17%20234633.png)
+
+
