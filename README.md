@@ -121,7 +121,13 @@ Outlier Handling: Improved model accuracy by managing outliers.
 Python: For data analysis and modeling
 Pandas, NumPy, Matplotlib, Seaborn: For data manipulation and visualization
 Scikit-learn: For machine learning modeling and evaluation
-
+## visuals
+#### actual vs predicted
 ![](https://raw.githubusercontent.com/shanis185/multi_regression/main/images/Screenshot%202024-12-17%20234633.png)
+#### heatmap
+![](https://raw.githubusercontent.com/shanis185/multi_regression/main/images/Screenshot%202024-12-17%20234620.png)
+#### pairplot
+![](https://raw.githubusercontent.com/shanis185/multi_regression/main/images/Screenshot%202024-12-17%20234607.png)
+
 
 
